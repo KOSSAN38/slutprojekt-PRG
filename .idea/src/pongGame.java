@@ -7,5 +7,6 @@ public class pongGame {
 
     public static void main(String[] args) {
 
+        Frame frame = new Frame();
     }
 }
